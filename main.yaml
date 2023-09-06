@@ -1,0 +1,5 @@
+- name: Install mongodb
+  hosts: monogodb
+  become: yes
+  roles:
+  - mongodb
