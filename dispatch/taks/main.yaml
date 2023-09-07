@@ -1,0 +1,21 @@
+- name: import form the common setup for go lang
+  ansible.builtin.import_role:
+    name: common
+    tasks_from: golang-setup
+- name: import form the common setup for go lang
+  ansible.builtin.import_role:
+    name: common
+    tasks_from: app-setup
+- name: execute goland set up code
+  ansible.builtin.command: {{item}}
+  args:
+    chdir: /app
+  loop:
+  - go mod init dispatch
+  - go get 
+  - go build
+
+- name: Import systemd set up
+  ansible.builtin.import_role:
+    name: common
+    tasks_from: systemd-setup

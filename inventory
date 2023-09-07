@@ -27,3 +27,6 @@ rabbitmq.sudheerdevops.online
 
 [payment]
 payment.sudheerdevops.online
+
+[dispatch]
+dispatch.sudheerdevops.online
