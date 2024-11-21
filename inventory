@@ -1,32 +1,32 @@
 [mongodb]
-mongodb.sudheerdevops.online
+mongodb.sudheerdev.online
 
 [catalogue]
-catalogue.sudheerdevops.online
+catalogue.sudheerdev.online
 
 [web]
-web.sudheerdevops.online
+web.sudheerdev.online
 
 [redis]
-redis.sudheerdevops.online
+redis.sudheerdev.online
 
 [user]
-user.sudheerdevops.online
+user.sudheerdev.online
 
 [cart]
-cart.sudheerdevops.online
+cart.sudheerdev.online
 
 [mysql]
-mysql.sudheerdevops.online
+mysql.sudheerdev.online
 
 [shipping]
-shipping.sudheerdevops.online
+shipping.sudheerdev.online
 
 [rabbitmq]
-rabbitmq.sudheerdevops.online
+rabbitmq.sudheerdev.online
 
 [payment]
-payment.sudheerdevops.online
+payment.sudheerdev.online
 
 [dispatch]
-dispatch.sudheerdevops.online
+dispatch.sudheerdev.online

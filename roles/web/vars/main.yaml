@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.sudheerdev.online
+USER_HOST: user.sudheerdev.online
+SHIPPING_HOST: shipping.sudheerdev.online
+CART_HOST: cart.sudheerdev.online
+PAYMENT_HOST: payment.sudheerdev.online
